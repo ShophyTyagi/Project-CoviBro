@@ -2,10 +2,6 @@
 
 [![Website](https://img.shields.io/badge/View-Website-blue)](https://www.dockthis.tech/)
 
-A basic GitHub repository example for Call for Code submissions and those projects that join the Code and Response initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need.
-
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
-
 ## Contents
 
 1. [Short description](#short-description)
@@ -27,14 +23,8 @@ Well you might not always have someone to talk to during times like this, we wis
 
 ### How can technology help?
 
-Chatbots are perfect for when users are appearing on government website for location based information or generic COVID-19 related information. Specially since they cannot wait to talk to real person, this information is crucial to be received right away 24/7. They are asking questions like:
-What is the number cases in a specific area
-1.What is the lockdown situation
-1.How long in the shelter-in-place order
-1.Where can I get a test done?
-1.What are the symptoms
-1.How does the virus spread?
-1.When do I need to call 9–1–1?
+Chatbots are perfect for when users are appearing on government website for location based information or generic COVID-19 related information. Specially since they cannot wait to talk to real person, this information is crucial to be received right away 24/7.
+
 
 ### The idea
 
