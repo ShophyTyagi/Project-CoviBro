@@ -78,13 +78,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 1. Install and set up Wordpress locally </br>
-&nbsp; * Windows users can do it from [here](https://themeisle.com/blog/install-xampp-and-wordpress-locally/) </br>
-&nbsp; * MAC users can do it from [here](https://skillcrush.com/blog/install-wordpress-mac/) </br>
-&nbsp; * Linux users can do it from [here](https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview)
+&nbsp; • Windows users can do it from [here](https://themeisle.com/blog/install-xampp-and-wordpress-locally/) </br>
+&nbsp; • MAC users can do it from [here](https://skillcrush.com/blog/install-wordpress-mac/) </br>
+&nbsp; • Linux users can do it from [here](https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview)
  
- 2. If you already have a wordpress site hosted 
- &nbsp; * Download the xml file from [here](https://github.com/shophy26/Project-CoviBro/blob/master/covibro.WordPress.2020-07-31.xml)
- &nbsp; * Go to your wordpress site's dashboard and import the xml file.
+ 2. If you already have a wordpress site hosted </br>
+ &nbsp; • Download the xml file from [here](https://github.com/shophy26/Project-CoviBro/blob/master/covibro.WordPress.2020-07-31.xml) </br>
+ &nbsp; • Go to your wordpress site's dashboard and import the xml file.
 
 
 ## Live demo
