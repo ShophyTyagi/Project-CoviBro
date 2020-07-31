@@ -27,7 +27,14 @@ Well you might not always have someone to talk to during times like this, we wis
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Chatbots are perfect for when users are appearing on government website for location based information or generic COVID-19 related information. Specially since they cannot wait to talk to real person, this information is crucial to be received right away 24/7. They are asking questions like:
+What is the number cases in a specific area
+1.What is the lockdown situation
+1.How long in the shelter-in-place order
+1.Where can I get a test done?
+1.What are the symptoms
+1.How does the virus spread?
+1.When do I need to call 9–1–1?
 
 ### The idea
 
