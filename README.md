@@ -27,18 +27,11 @@ Well you might not always have someone to talk to during times like this, we wis
 
 ### How can technology help?
 
-Chatbots are perfect for when users are appearing on government website for location based information or generic COVID-19 related information. Specially since they cannot wait to talk to real person, this information is crucial to be received right away 24/7. They are asking questions like:
-What is the number cases in a specific area
-1.What is the lockdown situation
-1.How long in the shelter-in-place order
-1.Where can I get a test done?
-1.What are the symptoms
-1.How does the virus spread?
-1.When do I need to call 9–1–1?
+Chatbots are perfect for when users are appearing on government website for location based information or generic COVID-19 related information. Specially since they cannot wait to talk to real person, this information is crucial to be received right away 24/7. 
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Sources have tons of answers to the frequently asked questions about the virus. Healthcare businesses can utilize the information from these trusted sources to create chatbots, voicebots and even messenger bots for their custom needs.
 
 ## Demo video
 
@@ -105,10 +98,10 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+* [IBM Watson Discovery](https://https://www.ibm.com/in-en/cloud/watson-discovery) - The Watson Discovery News Fetch and Serve Service
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 * [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+
+
 
