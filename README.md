@@ -40,18 +40,27 @@ It's imperative that learning and creating can continue when educational institu
 
 ![Video transcription/translation app](https://github.com/shophy26/Project-CoviBro/blob/master/Images/User_Interaction_Diagram.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user navigates to the site https://www.dockthis.com and chats with the bot.
+2. Watson Assistant at the backend links each of the queries to it's appropriate intent and gives the response from the dialogue flow.
+3. Watson Assistant uses webhooks, sending POST request to the url. Webhook gives the status of a successful request from the action created in Watson Discovery. 
+4. Watson Discovery uses [The Weather Company](https://api.covid19api.com/summary) and [CovidAPI](https://coronavirus-19-api.herokuapp.com/) services for providing Covid-19 statistics and the latest news.
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+The coronavirus disease 2019 (COVID-19) pandemic may be stressful for people. Fear and anxiety about a new disease and what could happen can be overwhelming and cause strong emotions in adults and children. Public health actions, such as social distancing, can make people feel isolated and lonely and can increase stress and anxiety. However, these actions are necessary to reduce the spread of COVID-19. Coping with stress in a healthy way will make you, the people you care about, and your community stronger. Project COVIBRO aims towards addressing the most basic concern there is during such times of the pandemic, an overwhelming amount of resources available for someone who just wants to know a gist about it. 
+
+
+The coronavirus disease 2019 (COVID-19) pandemic may be stressful for people. Fear and anxiety about a new disease and what could happen can be overwhelming and cause strong emotions in adults and children. Public health actions, such as social distancing, can make people feel isolated and lonely and can increase stress and anxiety. However, these actions are necessary to reduce the spread of COVID-19. Coping with stress in a healthy way will make you, the people you care about, and your community stronger. Project COVIBRO aims towards addressing the most basic concern there is during such times of the pandemic, an overwhelming amount of resources available for someone who just wants to know agist about it. 
+
+
+Wouldn't it have been better if there existed a platform that separated the wheat from the chaff and got us information that would help us directly? COVIBRO, our chatbot powered by IBM Watson backed by Watson Discovery Service that’s got a human touch to it does just that, COVIBRO has been designed from scratch to address the concerns of a not so literate but a capable mobile user who can only understand so much. Its primary user would-be citizens who are moderately informed about the condition of the pandemic worldwide, this includes kids and higher age demographics, both of which in today’s generation are very capable of using a website both on a desktop or a mobile. COVIBRO has been submitted in a deployed state, ready to take on queries and answer then and learn about the ones that it does not know about yet. To keep the user experience as simple yet impactful as possible, this project has been deployed onto a WordPress backed selected primarily due to the wide range of add-on plugins, using the API Integration and the tutorials provided, COVIBRO has been successfully deployed onto the domain (www.dockthis.tech) managed by our team. 
+
+
+Another important aspect of the chatbot has been the careful inclusion of also those who are experiencing loneliness and need someone to talk to, COVIBRO has been at a starter level successful in the figure of speech it uses as well as the Call To Actions. The chatbot provides phone numbers of local health institutions to help people obtain medical help faster.
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+![Roadmap](https://github.com/shophy26/Project-CoviBro/blob/master/Images/CoviBro_Roadmap.png)
 
 ## Getting started
 
