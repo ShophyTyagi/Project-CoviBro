@@ -34,7 +34,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Demo video
 
-[![Watch the video](https://github.com/Project-CoviBro/Images/Project_CoviBro.png)](https://youtu.be/R4P_bb8CXyc)
+[![Watch the video](https://github.com/shophy26/Project-CoviBro/blob/master/Images/Project_CoviBro.png)](https://youtu.be/R4P_bb8CXyc)
 
 ## The architecture
 
