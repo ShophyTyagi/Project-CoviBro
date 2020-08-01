@@ -60,6 +60,13 @@ Another important aspect of the chatbot has been the careful inclusion of also t
 
 ![Roadmap](https://github.com/shophy26/Project-CoviBro/blob/master/Images/CoviBro_Roadmap.png)
 
+## Future of CoviBro
+
+1. Addition of a self-diagnosis feature that enables CoviBro to accurately predict if an individual is likely to be tested positive for COVID-19 or not.
+2. Integrating CoviBro with a real-time location information provision. This would enable CoviBro to offer more personalized information to the concerned individual.
+3. A community forum to discuss the issues on COVID-19 with Moderator like support to direct and keep a group of users aware on health precautions and mental health. 
+4. Conversion from Wordpress Backend towards a Progressive Web Application to enable greater levels of scalability. Almost all resources used in Project CoviBro are completely      scalable.
+
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
